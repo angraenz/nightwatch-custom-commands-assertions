@@ -1,0 +1,21 @@
+{
+  "name": "nightwatch-custom-commands-assertions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:angraenz/nightwatch-custom-commands-assertions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angraenz/nightwatch-custom-commands-assertions/issues"
+  },
+  "homepage": "https://github.com/angraenz/nightwatch-custom-commands-assertions#readme",
+  "dependencies": {
+    "nightwatch": "^1.2.2"
+  }
+}
